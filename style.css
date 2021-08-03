@@ -1,0 +1,94 @@
+body{margin: 0;
+  padding: 0;
+font-family: 'Roboto Condensed', sans-serif;
+}
+
+.name{font-size: 3.125rem;
+font-weight: 700;
+color: orange;
+}
+
+h1{font-size: 2.5rem;}
+
+p{color: dimgray;}
+ 
+
+section{height: 31.25rem;}
+
+.box{width: 40%;
+float: left;
+margin-left: 5%;
+padding-left: 2%;
+
+}
+
+div > img{width: 70%;}
+
+.section-1{background-image: url(header-bg.png);
+  background-size: 100%;
+  
+}
+
+.button{text-decoration: none;
+background-image: linear-gradient(45deg,lightsalmon,tomato); 
+color: white;
+padding: 0.625rem 1.25rem;
+border-radius: .9375rem;
+}
+
+
+
+.section-2{background-image: url(biography-bg.png);
+background-size: 100%;
+margin-bottom: 3.125rem;
+
+}
+
+.work{
+  width: 25%;
+  float: left;
+  margin-left: 5%;
+  padding-left: 2%;
+}
+.center{text-align: center;
+  padding-bottom: 3.125rem;
+
+}
+
+.section-3{
+  background-image: url(latest-work-bg.png);
+  background-size: 100%;
+  margin-bottom: 6.25rem;
+   
+ 
+}
+
+.client{text-align: center;
+padding-bottom: 3.125rem;
+}
+
+.my-self{
+  height: 6.25rem;
+  width: 31.25rem;
+   text-align: center;
+background-color: rgb(238, 86, 86);
+color: white;
+border-radius: 0.3125;
+ 
+position: relative;
+left: 28.125rem;
+  
+}
+
+span{font-size: 0.625rem;
+color: gray;
+
+}
+
+footer{background-image: url(footer-bg.png);
+background-size: 100%;
+}
+
+.last{
+  text-align: center;
+}
